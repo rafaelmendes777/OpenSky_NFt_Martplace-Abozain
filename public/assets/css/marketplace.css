@@ -1,0 +1,29 @@
+html.no-touch {
+    overflow: auto !important;
+    padding-right: 0 !important;
+}
+
+.custom-select {
+    background-image: url('/assets/svg/arrow-down.svg');
+    background-repeat: no-repeat;
+    background-position: right 0.875rem center
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+
+@keyframes toggle-left {
+    from { transform: translateX(1.5rem); }
+    to { transform: translateX(0px); }
+}
+
+@keyframes toggle-right {
+    from { transform: translateX(0px); }
+    to { transform: translateX(1.5rem); }
+}
+

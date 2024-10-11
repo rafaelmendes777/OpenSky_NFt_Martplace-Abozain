@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="526" height="381" viewBox="0 0 526 381">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Masking" width="526" height="381" fill="#161a42"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.275" x2="0.003" y2="0.704" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2df2ff"/>
+      <stop offset="1" stop-color="#ddff95"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.275" x2="0.003" y2="0.704" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a22dff"/>
+      <stop offset="1" stop-color="#ff95db"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.275" x2="0.063" y2="0.811" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff2d92"/>
+      <stop offset="1" stop-color="#ffa25f"/>
+    </linearGradient>
+  </defs>
+  <g id="Side_Bar" data-name="Side Bar" transform="translate(-2 -72)">
+    <g id="Ornament" transform="translate(2 72)">
+      <g id="Ornament-2" data-name="Ornament" clip-path="url(#clip-path)">
+        <circle id="Shadow_2" data-name="Shadow  2" cx="58.274" cy="58.274" r="58.274" transform="translate(68.952 203.457) rotate(-168.682)" fill="#a22dff" opacity="0.3"/>
+        <path id="Ornament_8" data-name="Ornament 8" d="M47.215,0V41.85C47.215,62.464,26.076,79.176,0,79.176H0V0Z" transform="translate(-15.738 226.216)" fill="url(#linear-gradient)"/>
+        <circle id="Ornament_7" data-name="Ornament 7" cx="27.75" cy="27.75" r="27.75" transform="translate(488.654 55.056) rotate(11.318)" fill="url(#linear-gradient-2)"/>
+        <circle id="Ornament_6" data-name="Ornament 6" cx="38.278" cy="38.278" r="38.278" transform="translate(507.81 140.244) rotate(11.318)" fill="url(#linear-gradient-3)"/>
+        <circle id="Ornament_5" data-name="Ornament 5" cx="12.569" cy="12.569" r="12.569" transform="translate(75.138 91.391) rotate(11.318)" fill="url(#linear-gradient-3)"/>
+        <circle id="Ornament_4" data-name="Ornament 4" cx="4.57" cy="4.57" r="4.57" transform="translate(448.881 153.989) rotate(11.318)" fill="#555d75"/>
+        <circle id="Ornament_3" data-name="Ornament 3" cx="4.57" cy="4.57" r="4.57" transform="translate(70.074 169.029) rotate(11.318)" fill="#555d75"/>
+        <circle id="Ornament_2" data-name="Ornament 2" cx="38.278" cy="38.278" r="38.278" transform="translate(25.972 177.268) rotate(-168.682)" fill="url(#linear-gradient-2)"/>
+        <circle id="Ornament_1" data-name="Ornament 1" cx="10.284" cy="10.284" r="10.284" transform="translate(491.683 263.748) rotate(-168.682)" fill="url(#linear-gradient)"/>
+        <circle id="Shadow_1" data-name="Shadow  1" cx="42.848" cy="42.848" r="42.848" transform="translate(565.878 263.629) rotate(-168.682)" fill="#ffa336" opacity="0.5"/>
+        <circle id="Shadow_3" data-name="Shadow  3" cx="28.842" cy="28.842" r="28.842" transform="translate(47.934 293.458) rotate(-168.682)" fill="#ffa336" opacity="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
